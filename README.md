@@ -31,4 +31,5 @@ The Internet of Things promises billions of devices endowed with processing, mem
 *1- Basics of hardware description language (Verilog or VHDL)*
 
 *2- Basic C and assembly programming*
+
 *3- Separate purchase of hardware and/or software tools, in order to replicate the course labs*
