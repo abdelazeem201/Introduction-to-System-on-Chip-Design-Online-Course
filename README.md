@@ -1,5 +1,8 @@
 # *Introduction-to-System-on-Chip-Design-Online-Course*
 
+The Internet of Things promises billions of devices endowed with processing, memory and communication capabilities. These processing nodes will be, in effect, simple Systems on Chips (SoCs) and will need to be inexpensive and able to operate under stringent performance, power and area constraints. This course focuses on building SoCs around Arm Cortex-M0 processors, perfectly suited for IoT needs. Using FPGAs as prototyping platforms, this course explores a typical SoC development process: from creating high level functional specifications to design, implementation and testing on real FPGA hardware using standard hardware description and software programming languages.
+
+
 # *Course Aim*
 *To develop Arm Cortex-M0 based SoCs, from creating high-level functional specifications to design, implementation and testing on FPGA platforms using standard hardware description and software programming languages*
 
