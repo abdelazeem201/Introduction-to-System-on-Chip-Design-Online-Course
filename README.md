@@ -6,6 +6,8 @@ The Internet of Things promises billions of devices endowed with processing, mem
 # *Course Aim*
 *To develop Arm Cortex-M0 based SoCs, from creating high-level functional specifications to design, implementation and testing on FPGA platforms using standard hardware description and software programming languages*
 
+ <img src= "https://github.com/Casear98/Introduction-to-System-on-Chip-Design-Online-Course/blob/main/Appendix/20170309c_1.jpg>
+
 # Learning Outcomes
 
 # A- *Knowledge and understanding of*
